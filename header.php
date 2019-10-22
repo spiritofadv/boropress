@@ -15,6 +15,7 @@
 }*/ ?>
 <?php ale_option('sitelogo'); ?>
 
+<div style="font-size:70px;"><i class="fa fa-address-book" aria-hidden="true"></i></div>
 <section class="slider-example">
 	<div class="newhomeslider wrapper">
 		<ul class="slides">
